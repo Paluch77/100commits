@@ -1,1 +1,1 @@
-# "app planning"
+# "app planning, folder structure"
