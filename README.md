@@ -1,1 +1,1 @@
-# "app planning, folder structure, scraper"
+# "app planning, folder structure, scraper, nextjs"
