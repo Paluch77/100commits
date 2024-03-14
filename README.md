@@ -1,1 +1,1 @@
-# "app planning, 321folderxzx`xz` structure, next js, nodejs" planning
+# "app planning, 321fo321321lderxzx`xz` structure, next js, nodejs" planning
